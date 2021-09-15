@@ -1,0 +1,23 @@
+export default {
+    white: '#FFFFFF',
+    whiteTransparent: 'rgba(255,255,255,.3)',
+    black: '#000000',
+    textBlack:'#4D4D4D',
+    blackTransparent: 'rgba(0,0,0,.75)',
+    blue: '#2EC3E9',
+    purple: '#7843C5',
+    purpleLight: '#A979F2',
+    purpleLightOpacity: '#D4BCF9',
+    grey: '#8D8D8D',
+    green: '#5BCE89',
+    lightGreen: '#49C179',
+    red: '#FF3D00',
+    redLight: '#FF5B5B',
+    orange: '#FFA53B',
+    blueColorIcon:'#2EC3E9',
+    greyColorIcon:'#CECECE',
+    lightGray:'#5B5B5B',
+    lightBlue:'#D5F3FB',
+    thinGray:'#DFDFDF',
+    bgInput:'#F5F5F5'
+};

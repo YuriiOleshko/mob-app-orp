@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123931510116",
+    "project_id": "ofpapp-65697",
+    "storage_bucket": "ofpapp-65697.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123931510116:android:9bbd9dce2de6c82ff86671",
+        "android_client_info": {
+          "package_name": "com.ofpapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123931510116-5lrvb1eb06vk1avelfsiib8vjpvr54qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjQftSpeK19J4IyFvetoZ4dj1l1bI6kEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123931510116-5lrvb1eb06vk1avelfsiib8vjpvr54qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
